@@ -1,0 +1,2 @@
+../source/accelerometer.c:34:6:acc_init	16	static
+../source/accelerometer.c:44:13:acc_task	32	static

@@ -1,0 +1,3 @@
+../source/audio.c:53:6:audio_init	8	static
+../source/audio.c:102:13:TxCallback	32	static
+../source/audio.c:109:13:RxCallback	32	static

@@ -1,0 +1,4 @@
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_clock.h:983:20:CLOCK_EnableClock	24	static
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_iocon.h:182:22:IOCON_PinMuxSet	24	static
+../board/pin_mux.c:37:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:113:6:BOARD_InitPins	144	static

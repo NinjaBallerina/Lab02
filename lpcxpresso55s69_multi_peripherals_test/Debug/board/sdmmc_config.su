@@ -1,0 +1,4 @@
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+../board/sdmmc_config.c:31:10:BOARD_SDIF0ClockConfiguration	8	static
+../board/sdmmc_config.c:42:6:BOARD_SDCardDetectInit	16	static
+../board/sdmmc_config.c:53:6:BOARD_SD_Config	32	static

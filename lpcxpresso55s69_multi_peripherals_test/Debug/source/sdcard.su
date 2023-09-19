@@ -1,0 +1,4 @@
+../source/sdcard.c:49:13:SDCARD_DetectCallBack	16	static
+../source/sdcard.c:54:6:sdcard_init	16	static
+../source/sdcard.c:64:17:sdcardWaitCardInsert	8	static
+../source/sdcard.c:79:13:sdcard_task	32	static

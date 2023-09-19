@@ -1,0 +1,5 @@
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_gpio.h:210:20:GPIO_PortToggle	24	static
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_rtc.h:464:20:RTC_StartTimer	16	static
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_rtc.h:477:20:RTC_StopTimer	16	static
+../source/rtc.c:43:6:rtc_init	32	static
+../source/rtc.c:60:13:rtc_task	40	static

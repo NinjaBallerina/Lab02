@@ -1,0 +1,6 @@
+../source/mouse.c:86:6:mouse_init	16	static
+../source/mouse.c:97:21:USB_DeviceHidMouseAction	8	static
+../source/mouse.c:161:21:USB_DeviceHidMouseCallback	32	static
+../source/mouse.c:197:21:USB_DeviceCallback	40	static
+../source/mouse.c:413:13:USB_DeviceApplicationInit	8	static
+../source/mouse.c:483:13:mouse_task	16	static

@@ -1,0 +1,5 @@
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_gpio.h:172:24:GPIO_PinRead	24	static
+C:\Users\fwint\Documents\MCUXpressoIDE_11.8.0_1165\workspace\lpcxpresso55s69_multi_peripherals_test\drivers/fsl_gpio.h:210:20:GPIO_PortToggle	24	static
+../source/led_blinky.c:34:6:led_blinky_init	16	static
+../source/led_blinky.c:44:13:LED_Task	16	static
